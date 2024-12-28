@@ -1,4 +1,4 @@
-# personnel-portfoloio
+# personnel-portfolio
  A succinct personnel portfolio showcases qualifications, experience, and achievements. It provides a snapshot of skills and expertise, aiding in career advancement.
 # Description
  This GitHub repository hosts a responsive portfolio website coded in HTML and CSS.It provides a snapshot of skills and expertise, aiding in career advancement.
